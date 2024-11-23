@@ -1,5 +1,506 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The title card \"SUDDENLY\" appears over a static dramatic backdrop with suspensful orchestral music setting thw tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "86949df3-a1d7-4187-a0ad-2fc61e8a546c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music is sounds like the Cold War era. Tension and paranoia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "b23e9d01-f31a-43d3-a9a3-34bfccd3044e"
+    },
+    {
+      "start_time": 61,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wide shots show the towns streets. Clean sidewalks, charming homes, and locals going about their day. The sunny lighting and perfect scenery establish the town as a symbol of 1950s America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "06078088-d88e-42eb-bf26-f5ae5565de5f"
+    },
+    {
+      "start_time": 61,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sheriff Tod Shaw makes his first appearance, casually interacting with townspeople. His approachable manner shows his deep connection to the community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sheriff Tod Shaw",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "37fff025-1822-4e2c-9e49-a88851fcf685"
+    },
+    {
+      "start_time": 61,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The idea of community security is emphasized. However, the calm atmosphere begins to feel slightly vulnerable, hinting at incoming disruption."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "c01bba1e-de78-4a58-b2e3-394ed555334c"
+    },
+    {
+      "start_time": 181,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "interior shots of Ellen and Pidge’s home are warm, with soft lighting emphasizing family love. The camera lingers on Ellen's face during her disapproval of Pidge’s toy gun, signaling her emotional depth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "d5e59425-c7c2-4120-a1ed-e49fbe50804d"
+    },
+    {
+      "start_time": 181,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her dialogue reveals her strong pacifist stance and deep concern for her son’s upbringing, particularly about avoiding exposure to violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ellen Benson",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "26dfedda-8242-4b77-93cf-408d16c1416c"
+    },
+    {
+      "start_time": 181,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheerful and playful, he represents childhood innocence. His fascination with guns contrasts with Ellen’s protective nature which is foreshadowing the later moral dilemma."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pidge Benson",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "773d978c-6bab-4595-937b-3fcd1d025daa"
+    },
+    {
+      "start_time": 181,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellen’s pacifism vs. Tod’s role as an armed lawman introduces the film’s central debate: the ethics of violence and protection. The mother-son bond provides emotional stakes when danger arrives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "612889b2-7521-448f-8a7c-3df004c7eddd"
+    },
+    {
+      "start_time": 301,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium shots of the sheriff’s office focus on Tod and Deputy Slim, emphasizing the official preparation for the president’s stop. A cut to the Benson home contrasts the calm domestic life with the growing tension outside."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "3de81f2a-a2cb-492e-b092-b13132f4851d"
+    },
+    {
+      "start_time": 301,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tod reacts to the news with calm professionalism, underlining his sense of duty and composure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sheriff Tod Shaw",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "bb0ebae0-bebf-41dc-a2a6-9d27dbf0cc84"
+    },
+    {
+      "start_time": 301,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellen, hearing about the visit, seems preoccupied with Pidge rather than local politics, highlighting her personal priorities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ellen Benson",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "40c535b4-9d79-46cd-be0a-facb0120831f"
+    },
+    {
+      "start_time": 301,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The visit of a powerful political figure to a small town raises stakes and highlights the intersection of local and national concerns. Themes of security and vigilance emerge as Tod begins preparations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "e305c7f4-ae0d-4d08-944e-5eda95713c9a"
+    },
+    {
+      "start_time": 421,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low-angle shots and close-ups of the strangers create an air of menace. The camera lingers on their suspicious behavior, such as scanning the town or noting key landmarks, subtly signaling their threat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "b6bf1d4e-2f4e-4414-b6ac-936bdf898472"
+    },
+    {
+      "start_time": 421,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The strangers (led by John Baron, who is yet to be fully introduced) exude an aura of calm calculation, contrasting with the friendly and open demeanor of the townsfolk. Their lack of dialogue emphasizes their status as outsiders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stranger"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chararcter Analysis"
+        }
+      ],
+      "uuid": "7c2e195a-ea48-47a8-86af-220c35014ba2"
+    },
+    {
+      "start_time": 421,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Distrust of outsiders begins to surface, aligning with Cold War-era fears of infiltration. The juxtaposition between the town's welcoming openness and the strangers' veiled menace highlights vulnerability in perceived security."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "ae41cba1-d014-4ed0-a47a-108363fede96"
+    },
+    {
+      "start_time": 541,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The FBI agents’ entrance is shot with sharp, purposeful movements, signifying the urgency of their mission. A brief exchange of knowing glances between Tod and one of the strangers hints at suspicion but remains subtle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "acec914d-c56b-481f-9466-4254be4721af"
+    },
+    {
+      "start_time": 541,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tod’s increasing focus on the strangers shows his attentiveness and leadership qualities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sheriff Tod Shaw",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "ee63af90-1b79-44cc-aa2d-9ec5f63278ff"
+    },
+    {
+      "start_time": 541,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellen’s continued domestic focus contrasts with Tod’s growing sense of unease, drawing a line between personal and public concerns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ellen Benson",
+          "category": "Character analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "52205513-9eca-449b-9818-2b9af00347ab"
+    },
+    {
+      "start_time": 541,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tension between maintaining normalcy and responding to potential threats begins to crystallize. The calm before the storm is palpable, underscoring the film’s central motif of disruption."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thematic Elements"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "c746cbf2-dbc8-4cab-8e59-7d0c262194f9"
+    }
+  ],
   "set": "Default",
   "event_id": "9cbd6b1c-0690-457a-9585-f02caefb2eee",
   "source_id": "0a90fa1e-3607-498f-a3e9-98a44b84d249"
