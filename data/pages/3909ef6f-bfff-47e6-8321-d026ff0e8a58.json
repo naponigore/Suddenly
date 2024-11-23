@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-23T02:14:39.742Z",
+  "created_by": "naponigore",
+  "title": "Suddenly",
+  "slug": "suddenly",
+  "updated_at": "2024-11-23T02:14:39.742Z",
+  "updated_by": "naponigore",
+  "parent": "320d36c3-c457-4e26-bf1b-f98d1c8d03d4",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "9cbd6b1c-0690-457a-9585-f02caefb2eee"
+  }
+}

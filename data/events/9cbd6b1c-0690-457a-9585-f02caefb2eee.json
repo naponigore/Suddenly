@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0a90fa1e-3607-498f-a3e9-98a44b84d249": {
+      "label": "S1576 , T86-243",
+      "is_offline": false,
+      "file_url": "https://archive.org/details/suddenly",
+      "duration": 600
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Suddenly",
+  "created_at": "2024-11-23T02:14:39.518Z",
+  "created_by": "naponigore",
+  "updated_at": "2024-11-23T02:14:39.518Z",
+  "updated_by": "naponigore"
+}
