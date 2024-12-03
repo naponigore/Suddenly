@@ -9,7 +9,7 @@
     "github_org": "naponigore",
     "is_private": false,
     "title": "Suddenly (1954)",
-    "description": "fnjaibfneudiowa",
+    "description": "Suddenly (1954) is a suspenseful crime thriller directed by Lewis Allen. The film follows a peaceful small town that is shaken when a group of criminals, led by the ruthless John Baron (Frank Sinatra), take a family hostage in their home while plotting to assassinate the U.S. president, who is passing through the town. The town sheriff, played by Sterling Hayden, must outwit the criminals to prevent a political catastrophe. The tense, noir-inspired plot explores themes of bravery and betrayal.",
     "language": "en",
     "slug": "Suddenly",
     "creator": "naponigore",
@@ -72,6 +72,8 @@
       ]
     },
     "created_at": "2024-11-19T19:56:05.843Z",
-    "updated_at": "2024-11-23T02:15:54.874Z"
-  }
+    "updated_at": "2024-12-03T18:30:05.656Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
